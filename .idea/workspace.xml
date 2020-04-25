@@ -1,20 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c4fa8b4-a1b5-4de6-9e5a-25e7940c28ee" name="Default Changelist" comment="" />
+    <list default="true" id="9c4fa8b4-a1b5-4de6-9e5a-25e7940c28ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/pjatk/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/pjatk/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/pjatk/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1b2FjDvPjevBJAAXGh4JgM0xr0e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.pjatk" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.pjatk.Main" />
+      <module name="Projekt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.pjatk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projekt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.pjatk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.pjatk" />
+      <option name="MAIN_CLASS_NAME" value="pl.pjatk.CalculatorTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CalculatorTest.add" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -26,7 +108,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587822414940</updated>
+      <workItem from="1587822417166" duration="3514000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="814" height="295" key="GridCell.Tab.0.bottom" timestamp="1587824678806">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="814" height="295" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1587824678806" />
+    <state width="814" height="295" key="GridCell.Tab.0.center" timestamp="1587824678806">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="814" height="295" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1587824678806" />
+    <state width="814" height="295" key="GridCell.Tab.0.left" timestamp="1587824678806">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="814" height="295" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1587824678806" />
+    <state width="814" height="295" key="GridCell.Tab.0.right" timestamp="1587824678806">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="814" height="295" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1587824678806" />
+    <state x="860" y="186" key="SettingsEditor" timestamp="1587824270607">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="860" y="186" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1587824270607" />
+    <state x="1008" y="201" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587822958552">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1008" y="201" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1858.1080@0.0.1858.1080" timestamp="1587822958552" />
+    <state x="1127" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587823343484">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1127" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1587823343484" />
   </component>
 </project>
